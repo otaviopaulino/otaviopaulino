@@ -1,4 +1,4 @@
-### Hey, seja bem vindo! 😄
+### Seja bem vindo! 😄
 
 - 🔭 Atualmente eu trabalho com back-end na plataforma .NET
 - 🌱 Estou estudando Node.js
