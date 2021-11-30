@@ -1,7 +1,7 @@
 ### Hey, seja bem vindo! 😄
 
 - 🔭 Atualmente eu trabalho com back-end na plataforma .NET
-- 🌱 Estou estudando AWS e Docker
+- 🌱 Estou estudando Node.js
 - 📫 Meu e-mail: ota.aps@gmail.com
 - 😄 Pronomes: ele/dele
 
