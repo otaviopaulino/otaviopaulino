@@ -1,7 +1,7 @@
 ### Seja bem vindo! 😄
 
-- 🔭 Atualmente eu trabalho com back-end na plataforma .NET
-- 🌱 Estou estudando Flutter
+- 💸 Atualmente eu trabalho com back-end na plataforma .NET
+- 🤓 Estou estudando Flutter
 - 📫 Meu e-mail: ota.aps@gmail.com
 - 😄 Pronomes: ele/dele
 
